@@ -6,3 +6,5 @@
 3. Data Cleanup
 4. Feature Selection
 5. Classification
+
+## Initial Set Up
