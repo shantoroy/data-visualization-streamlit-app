@@ -49,3 +49,4 @@
 - [**awesome-streamlit**](https://github.com/MarcSkovMadsen/awesome-streamlit): List of Awesome Streamlit Apps
 - [**Streamlit App Gallery**](https://www.streamlit.io/gallery): Official Streamlit Apps Gallery
 - [**Best-of**](https://best-of.org): Best-of lists with Python and other languages
+- [**Best-of Streamlit**](https://github.com/jrieke/best-of-streamlit): Best-of list of Streamlit Apps
