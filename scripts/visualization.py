@@ -39,6 +39,12 @@ class one_feature:
         fig = go.Figure(data = data)
         st.plotly_chart(fig)
 
+    # def histogram_plot(self):
+    #     fig = px.histogram(
+    #             data_frame = self.df,
+    #             x = self.x_col_name
+    #         )
+    #     st.plotly_chart(fig)
 
     def histogram_plot(self):
         # defining data
