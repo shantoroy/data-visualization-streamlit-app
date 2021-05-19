@@ -50,3 +50,13 @@
 - [**Streamlit App Gallery**](https://www.streamlit.io/gallery): Official Streamlit Apps Gallery
 - [**Best-of**](https://best-of.org): Best-of lists with Python and other languages
 - [**Best-of Streamlit**](https://github.com/jrieke/best-of-streamlit): Best-of list of Streamlit Apps
+
+
+  ____  _                 _          ____             
+ / ___|| |__   __ _ _ __ | |_ ___   |  _ \ ___  _   _ 
+ \___ \| '_ \ / _` | '_ \| __/ _ \  | |_) / _ \| | | |
+  ___) | | | | (_| | | | | || (_) | |  _ < (_) | |_| |
+ |____/|_| |_|\__,_|_| |_|\__\___/  |_| \_\___/ \__, |
+                                                |___/ 
+
+Created TextArt using [patorjk.com](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
