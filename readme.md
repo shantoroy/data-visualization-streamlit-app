@@ -4,8 +4,8 @@
 1. Upload CSV File (Done)
 2. Data Visualization (Ongoing)
 3. Data Cleanup
-4. Feature Selection
-5. Classification
+4. Feature Selection (Basic Version Done)
+5. Classification (Basic Version Done)
 
 ## Initial Set Up
 ### Using Docker
