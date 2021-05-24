@@ -25,7 +25,8 @@ import sys
 sys.path.append('scripts/')
 
 from visualization import st_data_visualization
-
+from feature_select import st_feature_selection
+from classification import st_classification
 
 def try_read_df(f, f_name):
     filename, file_extension = os.path.splitext(f_name)
@@ -68,6 +69,10 @@ def main():
 
     if primary_function == "Data Visualization":
         st_data_visualization()
+    if primary_function == "Feature Selection":
+        st_feature_selection()
+    if primary_function == "Classification":
+        st_classification()
 
 if __name__ == '__main__':
     main()
